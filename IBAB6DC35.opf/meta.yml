@@ -1,0 +1,107 @@
+id: IBAB6DC35
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:20:13.133475'
+last_modified: '2022-05-30T18:20:13.133480'
+parser: null
+source_metadata:
+  title: Alak Zenkar Rinpoche
+  language: pt
+  description: 'Texts by and about the great scholar Alak Zenkar Rinpoche Thupten
+    Nyima (a lags gzan dkar thub bstan nyi ma, b.1943):'
+  volume:
+    f0375:
+      title: Biography of Jamgön Kongtrul Lodrö Thaye
+      base_file: f0375.txt
+      order: 1
+      parent: Biography
+    fD6DB:
+      title: Biography of Jamyang Khyentse Wangpo
+      base_file: fD6DB.txt
+      order: 2
+      parent: Biography
+    f64E8:
+      title: Biography of Patrul Rinpoche
+      base_file: f64E8.txt
+      order: 3
+      parent: Biography
+    f1CE4:
+      title: Biography of Shechen Gyaltsab Gyurme Pema Namgyal
+      base_file: f1CE4.txt
+      order: 4
+      parent: Biography
+    f9874:
+      title: Brief Biography of Drakkar Lobzang Palden
+      base_file: f9874.txt
+      order: 5
+      parent: Biography
+    f645D:
+      title: Brief Biography of Kharlek Tulku Pema Kunzang Rangdrol
+      base_file: f645D.txt
+      order: 6
+      parent: Biography
+    f5D70:
+      title: Brief Biography of Tāranātha
+      base_file: f5D70.txt
+      order: 7
+      parent: Biography
+    fA4DA:
+      title: A Brief Presentation of the Nine Vehicles
+      base_file: fA4DA.txt
+      order: 8
+      parent: Buddhist Philosophy
+    f74C5:
+      title: Long Life Prayer for Alak Zenkar Rinpoche
+      base_file: f74C5.txt
+      order: 9
+      parent: Long Life Prayers
+    f7EB7:
+      title: Long Life Prayer for Patrick Gaffney (Yeshé Wangyal)
+      base_file: f7EB7.txt
+      order: 10
+      parent: Long Life Prayers
+    f3A98:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche
+      base_file: f3A98.txt
+      order: 11
+      parent: Long Life Prayers
+    f058E:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      base_file: f058E.txt
+      order: 12
+      parent: Long Life Prayers
+    f5FF8:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      base_file: f5FF8.txt
+      order: 13
+      parent: Long Life Prayers
+    fBBA7:
+      title: 'Bodhicaryāvatāra: Teachings and Overview'
+      base_file: fBBA7.txt
+      order: 14
+      parent: Oral Teachings
+    f4445:
+      title: Light from the Wisdom Sun
+      base_file: f4445.txt
+      order: 15
+      parent: Sādhanas
+    f7763:
+      title: A Prayer for the Swift Rebirth of Tenpai Nyima Rinpoche
+      base_file: f7763.txt
+      order: 16
+      parent: Swift Rebirth Prayers
+    f2355:
+      title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche
+      base_file: f2355.txt
+      order: 17
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
